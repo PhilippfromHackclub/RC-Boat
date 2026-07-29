@@ -1,0 +1,32 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "infill_wall_overlap": "35%",
+    "inherits": "0.16mm Optimal @BBL X1C",
+    "inner_wall_speed": [
+        "50",
+        "nil"
+    ],
+    "name": "0.16mm Optimal @BBL X1C - Waterproof",
+    "outer_wall_line_width": "0.45",
+    "outer_wall_speed": [
+        "50",
+        "nil"
+    ],
+    "print_extruder_id": [
+        "1",
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard",
+        "Direct Drive High Flow"
+    ],
+    "print_settings_id": "0.16mm Optimal @BBL X1C - Waterproof",
+    "sparse_infill_pattern": "cubic",
+    "support_critical_regions_only": "1",
+    "support_on_build_plate_only": "1",
+    "support_remove_small_overhang": "0",
+    "support_threshold_angle": "1",
+    "support_type": "tree(manual)",
+    "version": "2.7.0.8"
+}
