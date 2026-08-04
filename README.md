@@ -1,7 +1,8 @@
-# RC-Boat.
+# RC-Boat
 This is a fully 3D printed RC boat. All the parts except the electronics and screws are 3D printed and don't need any special surface finish. The electronics are inexpensive and widely available.
 
 <img src="https://cdn.hackclub.com/019fb4a9-5cf9-72e7-9f4b-848a5da6b197/IMG_6196.jpg" width="100%" height="100%" alt="Boat" >
+
 ## Parts
 To assemble the RC boat the following parts are needed:<br>
 
@@ -40,3 +41,4 @@ All the parts besides electronic ones and screws are 3D printed. If you don't ha
 
 **Propeller:**<br>
 <img src="https://cdn.hackclub.com/019fb901-4e7e-798e-a77c-79989a5cf7d0/%C2%B4Propeller.png" width="50%" height="50%" alt="Propeller">
+
