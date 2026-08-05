@@ -3,6 +3,7 @@ This is a fully 3D printed RC boat. All the parts except the electronics and scr
 
 <img src="https://cdn.hackclub.com/019fb4a9-5cf9-72e7-9f4b-848a5da6b197/IMG_6196.jpg" width="100%" height="100%" alt="Boat" >
 
+
 ## Parts
 To assemble the RC boat the following parts are needed:<br>
 
@@ -26,6 +27,14 @@ To assemble the RC boat the following parts are needed:<br>
 
 **2-3S LiPo:**<br>
 <img src="https://cdn.hackclub.com/019fb8d8-58cd-7360-abcc-5c996e7960b7/2S%20LiPo.jpg" width="35%" height="35%" alt="2-3S LiPo">
+
+### Additional Parts
+**RC Remote** with at least 2 Channels:<br>
+<img src="https://cdn.hackclub.com/019fd369-aa6d-7ee8-964c-a988496e4af3/RC%20Remotes.png" width="60%" height="60%" alt="RC Remote">
+
+**LiPo Charger** with at least 2-3S:<br>
+<img src="https://cdn.hackclub.com/019fd36a-ca54-700f-8892-181dc0ed3e8e/LiPo%20Chargers.png" width="50%" height="50%" alt="LiPo Charger">
+
 
 ## 3D Printed Parts
 All the parts besides electronic ones and screws are 3D printed. If you don't have any 3D Printer you can purchase them online from services like PCBWay or JLCPCB.
