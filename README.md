@@ -30,7 +30,7 @@ To assemble the RC boat the following parts are needed:<br>
 
 ### Additional Parts
 **RC Remote** with at least 2 Channels:<br>
-<img src="https://cdn.hackclub.com/019fd369-aa6d-7ee8-964c-a988496e4af3/RC%20Remotes.png" width="60%" height="60%" alt="RC Remote">
+<img src="https://cdn.hackclub.com/019fe80e-b2d7-799c-a02e-f8902d7a66eb/RC%20Remotes.png" width="60%" height="60%" alt="RC Remote">
 
 **LiPo Charger** with at least 2-3S:<br>
 <img src="https://cdn.hackclub.com/019fd36a-ca54-700f-8892-181dc0ed3e8e/LiPo%20Chargers.png" width="50%" height="50%" alt="LiPo Charger">
@@ -51,3 +51,5 @@ All the parts besides electronic ones and screws are 3D printed. If you don't ha
 **Propeller:**<br>
 <img src="https://cdn.hackclub.com/019fb901-4e7e-798e-a77c-79989a5cf7d0/%C2%B4Propeller.png" width="50%" height="50%" alt="Propeller">
 
+**Stand:**<br>
+<img src="https://cdn.hackclub.com/019fe7f4-2677-776a-955f-77da1a7648fa/Stand.png" width="50%" height="50%" alt="Stand">
