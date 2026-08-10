@@ -1,5 +1,6 @@
 # RC-Boat
-This is a fully 3D printed RC boat. All the parts except the electronics and screws are 3D printed and don't need any special surface finish. The electronics are inexpensive and widely available.
+This is a fully 3D printed RC boat. All the parts except of the electronics and screws are 3D printed and don't need any special surface finish. The electronics are inexpensive and widely available online.
+It can be controlled with any remote with at least 2 channels and is a great option to start into the RC boat hobby.
 
 <img src="https://cdn.hackclub.com/019fb4a9-5cf9-72e7-9f4b-848a5da6b197/IMG_6196.jpg" width="100%" height="100%" alt="Boat" >
 
@@ -53,3 +54,7 @@ All the parts besides electronic ones and screws are 3D printed. If you don't ha
 
 **Stand:**<br>
 <img src="https://cdn.hackclub.com/019fe7f4-2677-776a-955f-77da1a7648fa/Stand.png" width="50%" height="50%" alt="Stand">
+
+## Wiring Diagram
+The wiring is as simple as it could get for a RC boat.<br>
+<img src="https://cdn.hackclub.com/019fec82-0096-707c-8209-1b6d170da5f5/Wiring%20Diagram.png" width="50%" height="50%" alt="Wiring Diagram">
