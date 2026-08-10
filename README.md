@@ -4,7 +4,7 @@ It can be controlled with any remote with at least 2 channels and is a great opt
 
 <img src="https://cdn.hackclub.com/019fb4a9-5cf9-72e7-9f4b-848a5da6b197/IMG_6196.jpg" width="100%" height="100%" alt="Boat" >
 
- | Parts | Quantity | Price | <p align="left">Links</p> | 
+ | Parts | Quantity | Price | Links | 
  | ----- | -------- | ----- | ----- | 
  | 18mm Brushless Motor | 1 | $2.98 | https://de.aliexpress.com/item/1005010273723861.html?mp=1&pdp_npi=6%40dis%21USD%21USD+2.98%21USD+2.98%21%21USD+2.98%21%21%21%400b884b4717854416918646448e0fb7%2112000051739861399%21ct%21DE%21-1%21%211%210%21&gatewayAdapt=glo2deu | 
  | 3.7g Servo Motor | 1 | $4.42 | https://de.aliexpress.com/item/1005007480966492.html?mp=1&pdp_npi=6%40dis%21USD%21USD+13.38%21USD+4.42%21%21USD+4.42%21%21%21%400b884b4717854416918646448e0fb7%2112000041019352476%21ct%21DE%21-1%21%211%210%21&gatewayAdapt=glo2deu | 
